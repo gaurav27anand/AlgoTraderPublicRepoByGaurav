@@ -1,0 +1,1 @@
+Complete set of algo trader bots There are multiple bots in this program. One is using the Bollinger Bands Strategy to generate level 1 signals and then it cross verifies the same with MACD analysis and then again cross verifies it with RSI indicator. Keep looking and you see Supertrends and Fibonacci Also. Cheers!
