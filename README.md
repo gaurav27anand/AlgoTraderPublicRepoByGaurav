@@ -1,7 +1,9 @@
 SMA and RSI Forward Tester
-This repository contains a Python-based trading bot that uses Simple Moving Averages (SMA) and Relative Strength Index (RSI) for forward testing various trading strategies on cryptocurrency pairs. The bot fetches market data, calculates technical indicators, and simulates trades to find the best parameters for maximizing returns.
+This repository contains a Python-based trading bot that uses Simple Moving Averages (SMA) and Relative Strength Index (RSI) for forward testing various trading strategies on cryptocurrency pairs.
+The bot fetches market data, calculates technical indicators, and simulates trades to find the best parameters for maximizing returns.
 
-Table of Contents
+Table of Contents:
+
 Installation
 Usage
 Project Structure
